@@ -29,7 +29,7 @@
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: aryananand.dev@gmail.com  
+- 📧 Email: aryananand@gmail.com  
 - 🌐 Portfolio: [funnkt](https://aryanannd.github.io/funnkt)  
 - 💼 LinkedIn: [Aryan Anand](https://www.linkedin.com/in/aryanannd)
 
